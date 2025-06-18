@@ -2,7 +2,6 @@
   <h3 align="center">Implementasi Protokol Manajemen Kunci Needham-Schroeder dalam Socket Programming menggunakan Bahasa Pemrograman C</h3>
 </div>
 <br />
-<br />
 
 ### Prasyarat
 - Sistem Operasi: Linux (Ubuntu 22.04 LTS)
